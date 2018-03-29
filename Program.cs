@@ -16,7 +16,7 @@ namespace _0329
 
 
             int count = 0;
-            int countA = 0;
+            double countA = 0;
             int countB = 0;
             for (int i = 0; i < bloods.Length; i++)
             {
@@ -50,10 +50,12 @@ namespace _0329
 
 
             }
+
+            double percentA = (double)countA / (double)bloods.Length;
                 Console.WriteLine("O型人數:" + count);
-                Console.WriteLine("A型人數:" + countA);
-                 Console.WriteLine("B型人數:" + countB);
-            Console.ReadKey();
+                Console.WriteLine("A型人數:{0}    {1:0}%", countA, percentA*100);
+                Console.WriteLine("B型人數:" + countB);
+                Console.ReadKey();
 
             }
         }
