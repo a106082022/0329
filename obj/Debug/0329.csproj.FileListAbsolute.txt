@@ -1,0 +1,7 @@
+C:\git\0329\0329\0329\obj\Debug\0329.csproj.CoreCompileInputs.cache
+C:\git\0329\0329\0329\bin\Debug\0329.exe.config
+C:\git\0329\0329\0329\bin\Debug\0329.exe
+C:\git\0329\0329\0329\bin\Debug\0329.pdb
+C:\git\0329\0329\0329\obj\Debug\0329.exe
+C:\git\0329\0329\0329\obj\Debug\0329.pdb
+C:\git\0329\0329\0329\obj\Debug\0329.csprojResolveAssemblyReference.cache
